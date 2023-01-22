@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an entry-level Software Developer looking for a position where I can learn on the job. I obtained my Bachelor of Commerce: Informatics qualification in November 2020 and recently graduated from CodeSpace Academy, where I completed a Software Development course, and I am proficient in PHP, MySQL, and full-stack JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
+
 <!--
 **MartinLouw05/MartinLouw05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
