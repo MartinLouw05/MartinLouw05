@@ -2,7 +2,7 @@
 
 I am an entry-level Software Developer looking for a position where I can learn on the job. I obtained my Bachelor of Commerce: Informatics qualification in November 2020 and recently graduated from CodeSpace Academy, where I completed a Software Development course, and I am proficient in PHP, MySQL and full-stack JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
-During my final year project at the University of Pretoria the COVID-19 pandemic started and our team was forced to continue working on our project remotely.  This experience has improved my communication and teamwork skills and allowed me to gain valuable insight into how it is to remotely work with a team in the future.
+The COVID-19 pandemic forced my final year project team to work on our project remotely. This experience has improved my communication and teamwork skills and allowed me to gain valuable insight into how it is to remotely work with a team.
 
 I am currently searching for an intern or junior software developer position to start my journey.
 
